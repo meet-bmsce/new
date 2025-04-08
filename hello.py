@@ -1,2 +1,2 @@
-print("hello, my name is meet and i am using hrithiks system")
+print("hello, my name is meet )
 print("worst")
